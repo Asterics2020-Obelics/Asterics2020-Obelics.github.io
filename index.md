@@ -1,2 +1,10 @@
-# Asterics2020-Obelics.github.io
-Page for the Asterics2020-Obelics github
+# Asterics2020 Obelics
+
+
+## OBELICS developments repositoy
+
+List of repositories:
+
+- [pschitt](../../../pschitt)
+
+- [stackyter](../../../stackyter)
