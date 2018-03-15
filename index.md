@@ -16,7 +16,7 @@ This github repository groups all OBELICS developments and events.
 
 ## List of repositories:
 
-- [School2017](../../../School2017)
+- [School2017](https://github.com/Asterics2020-Obelics/School2017)
 
 - [School2018](../../../School2018)
 
