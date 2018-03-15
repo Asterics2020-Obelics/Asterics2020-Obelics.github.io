@@ -18,8 +18,10 @@ This github repository groups all OBELICS developments and events.
 
 - [School2017](https://github.com/Asterics2020-Obelics/School2017)
 
-- [School2018](../../../School2018)
+- [School2018](https://github.com/Asterics2020-Obelics/School2018)
 
-- [pschitt](../../../pschitt)
+- [pschitt](https://github.com/Asterics2020-Obelics/pschitt)
 
-- [stackyter](../../../stackyter)
+- [stackyter](https://github.com/Asterics2020-Obelics/stackyter)
+
+- PLIBS_8_BASE(https://github.com/Asterics2020-Obelics/PLIS_8_BASE)
