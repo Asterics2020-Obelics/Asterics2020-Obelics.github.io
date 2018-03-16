@@ -24,4 +24,4 @@ This github repository groups all OBELICS developments and events.
 
 - [stackyter](https://github.com/Asterics2020-Obelics/stackyter)
 
-- PLIBS_8_BASE(https://github.com/Asterics2020-Obelics/PLIS_8_BASE)
+- [PLIBS_8_BASE](https://github.com/Asterics2020-Obelics/PLIS_8_BASE)
