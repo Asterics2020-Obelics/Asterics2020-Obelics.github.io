@@ -14,14 +14,10 @@ OBELICS is divided into 4 tasks:
 
 This github repository groups all OBELICS developments and events.
 
-## List of repositories:
+# Advanced Software Programming Schools repositories:
 
 - [School2017](https://github.com/Asterics2020-Obelics/School2017)
 
 - [School2018](https://github.com/Asterics2020-Obelics/School2018)
 
-- [pschitt](https://github.com/Asterics2020-Obelics/pschitt)
-
-- [stackyter](https://github.com/Asterics2020-Obelics/stackyter)
-
-- [PLIBS_8_BASE](https://github.com/Asterics2020-Obelics/PLIS_8_BASE)
+- [School2019](https://github.com/Asterics2020-Obelics/School2019)
