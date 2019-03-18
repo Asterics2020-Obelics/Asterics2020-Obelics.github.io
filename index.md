@@ -21,3 +21,7 @@ This github repository groups all OBELICS developments and events.
 - [School2018](https://github.com/Asterics2020-Obelics/School2018)
 
 - [School2019](https://github.com/Asterics2020-Obelics/School2019)
+
+
+
+- [C++ lecture](Lecture/CodeOptimisationAndPythonWrappers/index.html)
